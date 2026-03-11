@@ -1,17 +1,22 @@
 <div align="center">
 
 ```
-██╗  ██╗███████╗██╗     ██╗      ██████╗
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████║█████╗  ██║     ██║     ██║   ██║
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██║  ██║███████╗███████╗███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗██╗  ██╗
+██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝██║  ██║
+███████╗███████║██╔██╗ ██║   ██║   ██║   ██║███████╗███████║
+╚════██║██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║██╔══██║
+███████║██║  ██║██║ ╚████║   ██║   ╚██████╔╝███████║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+██████╗  █████╗ ████████╗██╗  ██╗ ██████╗ ██████╗
+██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔═══██╗██╔══██╗
+██████╔╝███████║   ██║   ███████║██║   ██║██║  ██║
+██╔══██╗██╔══██║   ██║   ██╔══██║██║   ██║██║  ██║
+██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
 
-### `< YOUR_NAME />`  &nbsp;·&nbsp; IT Student &nbsp;·&nbsp; Builder &nbsp;·&nbsp; Breaker &nbsp;·&nbsp; Learner
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress...;Mobile+%7C+Web+%7C+Data+%7C+Graphics;Always+learning%2C+always+building.;%24+sudo+make+me+a+developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Aspiring+Software+%26+UI%2FUX+Developer;B.Tech+IT+%40+Parul+University%2C+Vadodara;Full+Stack+%7C+Mobile+%7C+UI%2FUX+%7C+Data;%24+sudo+apt+install+santosh+--creativity+max)
 
 </div>
 
@@ -22,14 +27,18 @@
 ```bash
 $ cat about.txt
 
-  Name     : YOUR_NAME
-  Role     : IT Student & Aspiring Full-Stack Dev
-  Location : Earth, Sector Unknown
-  Status   : Debugging life... [▓▓▓▓▓▓▓░░░] 70%
-  
-  Interests: Building apps that actually work,
-             Breaking things to understand them,
-             Turning coffee → code since [YEAR]
+  Name        : Santosh Rathod
+  Title       : Aspiring Software & UI/UX Developer
+  Education   : B.Tech IT – Parul University (PIET), Vadodara [2025–2028]
+  Previous    : Diploma in IT – Parul University (PPI) | CGPA: 8.73
+  Location    : Waghodia Road, Vadodara, Gujarat 390025
+  Phone       : +91 9313280532
+  Email       : santoshsr7096@gmail.com
+  Status      : Building cool stuff... [▓▓▓▓▓▓▓▓░░] 80%
+
+  About Me    : Motivated & detail-oriented IT student with hands-on
+                experience in UI/UX design, web development & digital
+                marketing. Passionate about user-friendly digital solutions.
 ```
 
 ---
@@ -38,29 +47,27 @@ $ cat about.txt
 
 <div align="center">
 
-### 🌐 Web & Frontend
+### 💻 Technical
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-### ⚙️ Backend & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🎨 Graphics & Design
+### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-6C63FF?style=for-the-badge&logo=sketch&logoColor=white)
 
-### 🛠 Tools
+### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -70,48 +77,76 @@ $ cat about.txt
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santoshsr07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshsr07&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=Santoshsr07&theme=chartreuse-dark&hide_border=true&background=0D1117)
 
 </div>
 
 ---
 
-## `cat activity.log`
+## `cat experience.log`
 
-<div align="center">
+```bash
+$ grep -i "work" experience.log
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+[Jan 2024 – Mar 2024]  UI/UX Designer Intern     @ MaMo Technolabs, Vadodara
+                        └── Designed intuitive UI/UX for web & mobile apps
 
-> *Replace with your own snake animation — see setup instructions below*
-
-</div>
+[Oct 2023 – Nov 2023]  Digital Marketing Intern  @ International MUN (Remote)
+                        └── Social media content, event promotion & marketing strategy
+```
 
 ---
 
-## `./current_mission.sh`
+## `ls ./projects`
+
+| 🚀 Project | 🛠 Stack | 📌 Info |
+|---|---|---|
+| **CodeCraft** | HTML, CSS, JS, Python, Firebase | Code Learning Platform – Final Year Project |
+| **WallVerse** | Android Studio | Mobile App – Won 3rd Place @ Parul University |
+| **SkyLine** | Figma | Custom Business Website UI/UX Design |
+| **Naruto vs Sasuke** | Game Dev | 2D Action Game – Ideathon 2024 |
+| **Google Pay Redesign** | Figma | UI/UX Redesign Project |
+
+---
+
+## `cat achievements.txt`
+
+```
+🏆  3rd Place  – Mobile App Competition, Parul University
+📜  Certified  – Developing Native Applications using Java
+📜  Certified  – CCC Certification (NIELIT)
+🔐  Participated – Vadodara Police Hackathon 2023
+🤖  Completed  – GenAI Powered Data Analytics Job Simulation (Forage)
+```
+
+---
+
+## `cat current_mission.py`
 
 ```python
-class ITStudent:
+class SantoshRathod:
     def __init__(self):
-        self.name        = "YOUR_NAME"
-        self.learning    = ["System Design", "REST APIs", "ML Basics"]
-        self.building    = ["Something cool... stay tuned 👀"]
-        self.ask_me_about = ["Web Dev", "Mobile Apps", "Python", "Design"]
-        self.fun_fact    = "I once fixed a bug at 2am and felt like a god 🌙"
+        self.name       = "Santosh Rathod"
+        self.college    = "Parul University (PIET), Vadodara"
+        self.degree     = "B.Tech Information Technology [2025–2028]"
+        self.focus      = ["UI/UX Design", "Full Stack Dev", "Mobile Apps"]
+        self.learning   = ["System Design", "DSA", "React", "AI/ML Basics"]
+        self.portfolio  = "https://santosh-rathod.lovable.app/"
+        self.fun_fact   = "I once redesigned Google Pay just for fun 🎨"
 
     def current_status(self):
-        return "Turning ideas into reality, one commit at a time."
+        return "Turning ideas into pixel-perfect reality, one commit at a time."
 
-me = ITStudent()
+me = SantoshRathod()
 print(me.current_status())
-# Output: Turning ideas into reality, one commit at a time.
+# Output: Turning ideas into pixel-perfect reality, one commit at a time.
 ```
 
 ---
@@ -120,10 +155,11 @@ print(me.current_status())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://YOUR_USERNAME.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://santosh-rathod.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-rathod-a69460261)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/santoshsr07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santoshsr07)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshsr7096@gmail.com)
 
 </div>
 
@@ -134,25 +170,12 @@ print(me.current_status())
 ```
 > Profile visitors:
 ```
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Santoshsr07&color=00ff41&style=flat-square&label=VISITORS)
 
 ```
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Design is not just what it looks like — it's how it works." — Steve Jobs
 ```
 
-*Last updated: `auto-synced with every push 🚀`*
+*🌐 Portfolio → [santosh-rathod.lovable.app](https://santosh-rathod.lovable.app/)*
 
 </div>
-
----
-
-<details>
-<summary><code>📖 How to set up the snake animation</code></summary>
-
-1. Create a repo named exactly `YOUR_USERNAME/YOUR_USERNAME` (same as your GitHub username)
-2. Add this README.md to it
-3. Go to **Settings → Actions → General** → Allow all actions
-4. Create `.github/workflows/snake.yml` with the snake action from [Platane/snk](https://github.com/Platane/snk)
-5. Done! Your contribution grid will animate as a snake 🐍
-
-</details>
