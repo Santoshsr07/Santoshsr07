@@ -43,9 +43,9 @@ Motivated and detail-oriented **Information Technology student** at Parul Univer
 
 <br/>
 
-**Design & UI/UX**
+**Design Tools**
 
-<img src="https://skillicons.dev/icons?i=figma,canva,framer&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai&theme=dark" />
 
 <br/>
 
@@ -78,6 +78,7 @@ Motivated and detail-oriented **Information Technology student** at Parul Univer
 |--------|-------------|-------|
 | [**CodeCraft**](https://github.com/Santoshsr07) | Code learning platform — Final Year Project | HTML, CSS, JS, Python, Firebase |
 | [**WallVerse**](https://github.com/Santoshsr07) | Mobile wallpaper app — 🥉 3rd Place @ Parul University | Android Studio, Java |
+| [**Portfolio**](https://github.com/Santoshsr07/creative-canvas-hub) | My Portfolio | TypeScript, CSS, HTML, JavaScript |
 | [**SkyLine**](https://github.com/Santoshsr07) | Custom business website UI/UX | Figma |
 | [**Naruto vs Sasuke**](https://github.com/Santoshsr07) | 2D action game — Ideathon 2024 | Game Dev |
 | [**Google Pay Redesign**](https://github.com/Santoshsr07) | UI/UX redesign concept | Figma |
