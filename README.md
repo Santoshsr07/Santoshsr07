@@ -34,7 +34,7 @@ I'm an **Information Technology student at Parul University** who enjoys working
 
 I like taking an idea from a rough sketch → interface → implementation → something people can actually use.
 
-Currently, I'm sharpening my **DSA skills**, exploring **React**, building projects, and getting better at turning complicated ideas into simple experiences.
+Currently, I'm sharpening my **DSA skills**, building projects, and getting better at turning complicated ideas into simple experiences.
 
 </td>
 <td width="45%">
@@ -95,7 +95,7 @@ Currently, I'm sharpening my **DSA skills**, exploring **React**, building proje
 | Area | Current Focus |
 |:---|:---|
 | 🧠 **DSA** | Arrays, hashing, binary search, sliding window, stacks, DP & patterns |
-| 🌐 **Web** | HTML, CSS, JavaScript, React & modern UI |
+| 🌐 **Web** | HTML, CSS, JavaScript & modern UI |
 | 📱 **Mobile** | Android development with Java & Android Studio |
 | 🎨 **Design** | UI/UX, wireframes, prototypes & visual design |
 | ☁️ **Backend / Services** | Firebase & application data workflows |
@@ -236,15 +236,53 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 ## 🌱 Currently Exploring
 
-```text
-React.js                    ███████████░░░  Learning
-Data Structures & Algorithms ███████████░░░  Practicing
-Android Development         █████████░░░░░  Building
-System Design               ██████░░░░░░░░  Exploring
-UI/UX                       ████████████░░  Designing
-```
+<table>
+<tr>
+<td width="33%" align="center">
 
-> Progress bars are intentionally approximate. The real metric is what I can build without copying the answer. 😄
+### 🧠 DSA
+**Problem Solving**
+
+Arrays · Hashing ·  
+Binary Search · DP ·  
+Sliding Window
+
+`ACTIVE`
+
+</td>
+<td width="33%" align="center">
+
+### 💻 Development
+**Building & Improving**
+
+Java · Web Development ·  
+Firebase · Android
+
+`ACTIVE`
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 Design
+**Creating Better UX**
+
+UI/UX · Figma ·  
+Prototyping · Visual Design
+
+`ACTIVE`
+
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+
+### 🔄 Revisiting
+
+**React.js** · Refreshing concepts and getting the muscle memory back.
+
+</td>
+</tr>
+</table>
 
 ---
 
