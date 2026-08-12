@@ -17,7 +17,6 @@
 <a href="mailto:santoshsr7096@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Santoshsr07&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -59,8 +58,6 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 <details>
 <summary><b>📌 Quick facts</b></summary>
 
-<br>
-
 - 🎓 **B.Tech Information Technology** — Parul University
 - 📜 **Diploma in IT — 8.73 CGPA**
 - 💼 **UI/UX Designer Intern** — MaMo Technolabs
@@ -77,22 +74,17 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 <div align="center">
 
 ### 💻 Languages
-
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css&theme=dark"/>
 
 ### 🎨 Design & Creative
-
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai&theme=dark"/>
 
 ### 🧰 Development & Tools
-
 <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase,git,github,vscode&theme=dark"/>
 
 </div>
 
-<br>
-
-| Area | Current Focus |
+| Area | Focus |
 |:---|:---|
 | 🧠 **DSA** | Arrays, hashing, binary search, sliding window, stacks, DP & patterns |
 | 🌐 **Web** | HTML, CSS, JavaScript & modern UI |
@@ -104,8 +96,6 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 
 ## 🚀 Things I've Built
 
-<div align="center">
-
 | Project | What it is | Stack |
 |:---|:---|:---:|
 | 🎮 **CodeCraft** | Interactive platform for learning programming concepts | `HTML` `CSS` `JS` |
@@ -116,12 +106,8 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 | 🌃 **SkyLine** | Business website UI/UX concept | `Figma` |
 | 💳 **G-Pay Redesign** | Google Pay UI/UX concept | `Figma` |
 
-</div>
-
 <details>
 <summary><b>🔗 Explore selected projects</b></summary>
-
-<br>
 
 - 🌐 **Portfolio:** [santosh-rathod.lovable.app](https://santosh-rathod.lovable.app/)
 - 📚 **Pustakam:** [pustakam.lovable.app](https://pustakam.lovable.app/)
@@ -134,35 +120,30 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 
 ## 🧠 DSA Journey
 
-I'm keeping my algorithm practice in a dedicated repository, organized by patterns and topics rather than throwing every solution into one giant folder.
+I'm keeping my algorithm practice in a dedicated repository, organized by patterns and topics.
 
 <div align="center">
-
-<a href="https://github.com/Santoshsr07/leetcode-solutions">
-<img src="https://img.shields.io/badge/⚡%20Explore%20My%20LeetCode%20Solutions-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&color=58A6FF"/>
-</a>
+<a href="https://github.com/Santoshsr07/leetcode-solutions"><img src="https://img.shields.io/badge/⚡%20Explore%20My%20LeetCode%20Solutions-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&color=58A6FF"/></a>
 
 <br><br>
 
 `Arrays` · `Binary Search` · `Hashing` · `Linked List` · `Stack` · `Sliding Window` · `DP` · `Sorting` · `Strings` · `SQL` · `Pandas`
 
-</div>
+<br><br>
 
 > **Solve → Analyze → Optimize → Repeat.**
+
+</div>
 
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Santoshsr07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshsr07&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
 <br><br>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Santoshsr07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
 </div>
 
 ---
@@ -170,11 +151,7 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 ## 🏆 LeetCode
 
 <div align="center">
-
-<a href="https://leetcode.com/u/santoshsr07/">
-<img src="https://leetcard.jacoblin.cool/santoshsr07?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats"/>
-</a>
-
+<a href="https://leetcode.com/u/santoshsr07/"><img src="https://leetcard.jacoblin.cool/santoshsr07?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats"/></a>
 </div>
 
 ---
@@ -182,9 +159,7 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 ## 📈 Contribution Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santoshsr07&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub contribution graph"/>
-
 </div>
 
 ---
@@ -193,8 +168,6 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 <details open>
 <summary><b>🎨 UI/UX Designer Intern · MaMo Technolabs</b></summary>
-
-<br>
 
 **Vadodara · Jan 2024 – Mar 2024**
 
@@ -206,8 +179,6 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 <details>
 <summary><b>📣 Digital Marketing Intern · International Model United Nations</b></summary>
-
-<br>
 
 **Remote · Oct 2023 – Nov 2023**
 
@@ -236,88 +207,95 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 ## 🌱 Currently Exploring
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" valign="top" width="33%">
 
 ### 🧠 DSA
+
 **Problem Solving**
 
-Arrays · Hashing ·  
-Binary Search · DP ·  
+Arrays · Hashing<br>
+Binary Search · DP<br>
 Sliding Window
 
+<br>
+
 `ACTIVE`
 
 </td>
-<td width="33%" align="center">
+<td align="center" valign="top" width="33%">
 
 ### 💻 Development
+
 **Building & Improving**
 
-Java · Web Development ·  
+Java · Web Development<br>
 Firebase · Android
 
+<br>
+
 `ACTIVE`
 
 </td>
-<td width="33%" align="center">
+<td align="center" valign="top" width="33%">
 
 ### 🎨 Design
+
 **Creating Better UX**
 
-UI/UX · Figma ·  
+UI/UX · Figma<br>
 Prototyping · Visual Design
 
+<br>
+
 `ACTIVE`
-
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-
-### 🔄 Revisiting
-
-**React.js** · Refreshing concepts and getting the muscle memory back.
 
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td align="center" valign="middle">
+
+### 🔄 React.js · Revisiting
+
+Refreshing concepts, rebuilding muscle memory, and keeping React ready for the next project.
+
+`REVISITING`
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## 🧩 How I Like to Build
 
+<div align="center">
+
 ```text
-        IDEA 💡
-          │
-          ▼
-      ┌─────────┐
-      │ DESIGN  │ 🎨
-      └────┬────┘
-           │
-           ▼
-      ┌─────────┐
-      │  CODE   │ 💻
-      └────┬────┘
-           │
-           ▼
-      ┌─────────┐
-      │  TEST   │ 🧪
-      └────┬────┘
-           │
-           ▼
-      ┌─────────┐
-      │ DEBUG   │ 🔧
-      └────┬────┘
-           │
-           ▼
-      ┌─────────┐
-      │  SHIP   │ 🚀
-      └────┬────┘
-           │
-           └──────► LEARN → ITERATE → REPEAT
+IDEA 💡
+  ↓
+DESIGN 🎨
+  ↓
+CODE 💻
+  ↓
+TEST 🧪
+  ↓
+DEBUG 🔧
+  ↓
+SHIP 🚀
+  ↓
+LEARN → ITERATE → REPEAT
 ```
+
+</div>
 
 ---
 
@@ -331,7 +309,7 @@ If you're interested in **software development, UI/UX, DSA, or building somethin
 
 <a href="https://santosh-rathod.lovable.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-161B22?style=for-the-badge&color=58A6FF"/></a>
 <a href="https://www.linkedin.com/in/santosh-rathod-a69460261/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:santosh.rathod@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="mailto:santoshsr7096@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
 
