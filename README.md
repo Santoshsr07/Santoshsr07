@@ -219,9 +219,9 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 
 <br><br>
 
-### 💻 Languages by Repository
+### 🏆 GitHub Trophies
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santoshsr07&theme=github_dark" width="70%" alt="Languages by repository"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Santoshsr07&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub trophies"/>
 
 </div>
 
