@@ -25,9 +25,9 @@
 
 ## 🧭 A Little About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="58%" valign="middle">
 
 I'm an **Information Technology student at Parul University** who enjoys working at the intersection of **code, design, and problem solving**.
 
@@ -36,7 +36,7 @@ I like taking an idea from a rough sketch → interface → implementation → s
 Currently, I'm sharpening my **DSA skills**, building projects, and getting better at turning complicated ideas into simple experiences.
 
 </td>
-<td width="45%">
+<td width="42%" align="center" valign="middle">
 
 ```text
 ╭────────────────────────╮
@@ -58,6 +58,8 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 <details>
 <summary><b>📌 Quick facts</b></summary>
 
+<br>
+
 - 🎓 **B.Tech Information Technology** — Parul University
 - 📜 **Diploma in IT — 8.73 CGPA**
 - 💼 **UI/UX Designer Intern** — MaMo Technolabs
@@ -74,40 +76,53 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css&theme=dark" alt="Languages"/>
 
 ### 🎨 Design & Creative
-<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai&theme=dark" alt="Design tools"/>
 
 ### 🧰 Development & Tools
-<img src="https://skillicons.dev/icons?i=react,androidstudio,firebase,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,androidstudio,firebase,git,github,vscode&theme=dark" alt="Development tools"/>
 
 </div>
 
-| Area | Focus |
-|:---|:---|
-| 🧠 **DSA** | Arrays, hashing, binary search, sliding window, stacks, DP & patterns |
-| 🌐 **Web** | HTML, CSS, JavaScript & modern UI |
-| 📱 **Mobile** | Android development with Java & Android Studio |
-| 🎨 **Design** | UI/UX, wireframes, prototypes & visual design |
-| ☁️ **Backend / Services** | Firebase & application data workflows |
+<table width="100%">
+<tr>
+<td width="50%">🧠 <b>DSA</b><br>Arrays, hashing, binary search, sliding window, stacks, DP & patterns</td>
+<td width="50%">🌐 <b>Web</b><br>HTML, CSS, JavaScript & modern UI</td>
+</tr>
+<tr>
+<td>📱 <b>Mobile</b><br>Android development with Java & Android Studio</td>
+<td>🎨 <b>Design</b><br>UI/UX, wireframes, prototypes & visual design</td>
+</tr>
+<tr>
+<td colspan="2" align="center">☁️ <b>Backend / Services</b><br>Firebase & application data workflows</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Things I've Built
 
-| Project | What it is | Stack |
-|:---|:---|:---:|
-| 🎮 **CodeCraft** | Interactive platform for learning programming concepts | `HTML` `CSS` `JS` |
-| 📝 **Pustakam** | Notes and learning platform | `Web` `Firebase` |
-| 🖼️ **WallVerse** | Android wallpaper application | `Java` `Android` |
-| 🌐 **Portfolio** | Personal developer portfolio | `Web` |
-| 🎮 **Naruto Games** | Anime-inspired game collection | `Game Dev` |
-| 🌃 **SkyLine** | Business website UI/UX concept | `Figma` |
-| 💳 **G-Pay Redesign** | Google Pay UI/UX concept | `Figma` |
+<table width="100%">
+<tr>
+<th align="left">Project</th>
+<th align="left">What it is</th>
+<th align="center">Stack</th>
+</tr>
+<tr><td>🎮 <b>CodeCraft</b></td><td>Interactive platform for learning programming concepts</td><td align="center"><code>HTML</code> <code>CSS</code> <code>JS</code></td></tr>
+<tr><td>📝 <b>Pustakam</b></td><td>Notes and learning platform</td><td align="center"><code>Web</code> <code>Firebase</code></td></tr>
+<tr><td>🖼️ <b>WallVerse</b></td><td>Android wallpaper application</td><td align="center"><code>Java</code> <code>Android</code></td></tr>
+<tr><td>🌐 <b>Portfolio</b></td><td>Personal developer portfolio</td><td align="center"><code>Web</code></td></tr>
+<tr><td>🎮 <b>Naruto Games</b></td><td>Anime-inspired game collection</td><td align="center"><code>Game Dev</code></td></tr>
+<tr><td>🌃 <b>SkyLine</b></td><td>Business website UI/UX concept</td><td align="center"><code>Figma</code></td></tr>
+<tr><td>💳 <b>G-Pay Redesign</b></td><td>Google Pay UI/UX concept</td><td align="center"><code>Figma</code></td></tr>
+</table>
 
 <details>
 <summary><b>🔗 Explore selected projects</b></summary>
+
+<br>
 
 - 🌐 **Portfolio:** [santosh-rathod.lovable.app](https://santosh-rathod.lovable.app/)
 - 📚 **Pustakam:** [pustakam.lovable.app](https://pustakam.lovable.app/)
@@ -123,11 +138,12 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 I'm keeping my algorithm practice in a dedicated repository, organized by patterns and topics.
 
 <div align="center">
+
 <a href="https://github.com/Santoshsr07/leetcode-solutions"><img src="https://img.shields.io/badge/⚡%20Explore%20My%20LeetCode%20Solutions-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&color=58A6FF"/></a>
 
 <br><br>
 
-`Arrays` · `Binary Search` · `Hashing` · `Linked List` · `Stack` · `Sliding Window` · `DP` · `Sorting` · `Strings` · `SQL` · `Pandas`
+<code>Arrays</code> · <code>Binary Search</code> · <code>Hashing</code> · <code>Linked List</code> · <code>Stack</code> · <code>Sliding Window</code> · <code>DP</code> · <code>Sorting</code> · <code>Strings</code> · <code>SQL</code> · <code>Pandas</code>
 
 <br><br>
 
@@ -140,10 +156,14 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 ## 📊 GitHub Activity
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santoshsr07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshsr07&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santoshsr07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshsr07&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+
 <br><br>
-<img width="70%" src="https://streak-stats.demolab.com?user=Santoshsr07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Santoshsr07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
+
 </div>
 
 ---
@@ -151,7 +171,9 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 ## 🏆 LeetCode
 
 <div align="center">
+
 <a href="https://leetcode.com/u/santoshsr07/"><img src="https://leetcard.jacoblin.cool/santoshsr07?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats"/></a>
+
 </div>
 
 ---
@@ -159,7 +181,9 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 ## 📈 Contribution Graph
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santoshsr07&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub contribution graph"/>
+
 </div>
 
 ---
@@ -168,6 +192,8 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 <details open>
 <summary><b>🎨 UI/UX Designer Intern · MaMo Technolabs</b></summary>
+
+<br>
 
 **Vadodara · Jan 2024 – Mar 2024**
 
@@ -180,6 +206,8 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 <details>
 <summary><b>📣 Digital Marketing Intern · International Model United Nations</b></summary>
 
+<br>
+
 **Remote · Oct 2023 – Nov 2023**
 
 - Worked on social media promotion and digital content
@@ -191,27 +219,27 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 ## 🏅 Highlights
 
-<div align="center">
-
-| 🏆 | Achievement |
-|:---:|:---|
-| 🥉 | **3rd Place** — Mobile App Competition, Parul University |
-| 🤖 | **GenAI Powered Data Analytics Job Simulation** — Forage |
-| 🔐 | **Vadodara Police Hackathon** — Participant |
-| 📱 | **Developing Native Applications using Java** — Certification |
-| 📜 | **CCC Certification** — NIELIT |
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%">🥉 <b>3rd Place</b><br>Mobile App Competition, Parul University</td>
+<td width="50%">🤖 <b>GenAI Powered Data Analytics</b><br>Job Simulation — Forage</td>
+</tr>
+<tr>
+<td>🔐 <b>Vadodara Police Hackathon</b><br>Participant</td>
+<td>📱 <b>Native Applications using Java</b><br>Certification</td>
+</tr>
+<tr>
+<td colspan="2" align="center">📜 <b>CCC Certification</b> — NIELIT</td>
+</tr>
+</table>
 
 ---
 
 ## 🌱 Currently Exploring
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" valign="top" width="33%">
+<td width="33.33%" align="center" valign="top">
 
 ### 🧠 DSA
 
@@ -221,12 +249,11 @@ Arrays · Hashing<br>
 Binary Search · DP<br>
 Sliding Window
 
-<br>
-
-`ACTIVE`
+<br><br>
+<code>ACTIVE</code>
 
 </td>
-<td align="center" valign="top" width="33%">
+<td width="33.33%" align="center" valign="top">
 
 ### 💻 Development
 
@@ -235,12 +262,11 @@ Sliding Window
 Java · Web Development<br>
 Firebase · Android
 
-<br>
-
-`ACTIVE`
+<br><br>
+<code>ACTIVE</code>
 
 </td>
-<td align="center" valign="top" width="33%">
+<td width="33.33%" align="center" valign="top">
 
 ### 🎨 Design
 
@@ -249,29 +275,24 @@ Firebase · Android
 UI/UX · Figma<br>
 Prototyping · Visual Design
 
-<br>
-
-`ACTIVE`
+<br><br>
+<code>ACTIVE</code>
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td align="center" valign="middle">
+<td colspan="3" align="center">
 
 ### 🔄 React.js · Revisiting
 
 Refreshing concepts, rebuilding muscle memory, and keeping React ready for the next project.
 
-`REVISITING`
+<br><br>
+<code>REVISITING</code>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
