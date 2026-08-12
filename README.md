@@ -84,21 +84,47 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 ### 🧰 Development & Tools
 <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase,git,github,vscode&theme=dark" alt="Development tools"/>
 
-</div>
+<br>
 
-<table width="100%" align="center">
+<table width="100%">
 <tr>
-<td width="50%" align="center">🧠 <b>DSA</b><br>Arrays, hashing, binary search, sliding window, stacks, DP & patterns</td>
-<td width="50%" align="center">🌐 <b>Web</b><br>HTML, CSS, JavaScript & modern UI</td>
-</tr>
-<tr>
-<td align="center">📱 <b>Mobile</b><br>Android development with Java & Android Studio</td>
-<td align="center">🎨 <b>Design</b><br>UI/UX, wireframes, prototypes & visual design</td>
-</tr>
-<tr>
-<td colspan="2" align="center">☁️ <b>Backend / Services</b><br>Firebase & application data workflows</td>
+<td width="33.33%" align="center" valign="top">
+
+### 🧠 Problem Solving
+
+**DSA**
+
+Arrays · Hashing<br>
+Binary Search · Stacks<br>
+Sliding Window · DP
+
+</td>
+<td width="33.33%" align="center" valign="top">
+
+### 🌐 Development
+
+**Web & Mobile**
+
+Java · JavaScript<br>
+HTML · CSS · Android<br>
+Firebase
+
+</td>
+<td width="33.33%" align="center" valign="top">
+
+### 🎨 Design
+
+**UI / UX**
+
+Figma · Prototyping<br>
+Wireframes · Visual Design<br>
+User Flows
+
+</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -135,19 +161,48 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 
 ## 🧠 DSA Journey
 
-I'm keeping my algorithm practice in a dedicated repository, organized by patterns and topics.
-
 <div align="center">
 
-<a href="https://github.com/Santoshsr07/leetcode-solutions"><img src="https://img.shields.io/badge/⚡%20Explore%20My%20LeetCode%20Solutions-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&color=58A6FF"/></a>
+<p><b>My algorithm practice is organized by reusable problem-solving patterns.</b></p>
+
+<table width="100%">
+<tr>
+<td width="33.33%" align="center" valign="top">
+
+### 🔍 Search & Arrays
+
+`Arrays` · `Binary Search`<br>
+`Sorting` · `Hashing`
+
+</td>
+<td width="33.33%" align="center" valign="top">
+
+### 🔗 Data Structures
+
+`Linked List` · `Stack`<br>
+`Queue` · `Strings`
+
+</td>
+<td width="33.33%" align="center" valign="top">
+
+### 🧠 Advanced Patterns
+
+`Sliding Window` · `DP`<br>
+`Bit` · `Maths`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/Santoshsr07/leetcode-solutions">
+<img src="https://img.shields.io/badge/⚡%20Explore%20LeetCode%20Solutions-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&color=58A6FF" alt="LeetCode Solutions"/>
+</a>
 
 <br><br>
 
-<code>Arrays</code> · <code>Binary Search</code> · <code>Hashing</code> · <code>Linked List</code> · <code>Stack</code> · <code>Sliding Window</code> · <code>DP</code> · <code>Sorting</code> · <code>Strings</code> · <code>SQL</code> · <code>Pandas</code>
-
-<br><br>
-
-> **Solve → Analyze → Optimize → Repeat.**
+**Solve** → **Analyze** → **Optimize** → **Repeat**
 
 </div>
 
@@ -157,12 +212,21 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santoshsr07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshsr07&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+### 📈 Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=Santoshsr07&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" width="70%" alt="GitHub statistics"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Santoshsr07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshsr07&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="55%" alt="Top languages"/>
+
+<br><br>
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=Santoshsr07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="65%" alt="GitHub streak"/>
 
 </div>
 
