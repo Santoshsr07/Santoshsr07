@@ -219,9 +219,34 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 
 <br><br>
 
-### 🏆 GitHub Trophies
+### ⭐ Featured GitHub Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=Santoshsr07&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub trophies"/>
+<table width="90%" align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🧠 LeetCode Solutions
+
+My DSA practice repository covering arrays, hashing, binary search, sliding window, stacks, dynamic programming and more.
+
+<a href="https://github.com/Santoshsr07/leetcode-solutions"><code>View Repository →</code></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🎮 Naruto Games
+
+A collection of anime-inspired game projects and experiments built while exploring game development.
+
+<a href="https://github.com/Santoshsr07/Naruto-Games"><code>View Repository →</code></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/Santoshsr07?tab=repositories"><img src="https://img.shields.io/badge/📂%20Explore%20All%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
 
 </div>
 
