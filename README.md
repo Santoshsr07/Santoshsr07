@@ -25,9 +25,9 @@
 
 ## 🧭 A Little About Me
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<td width="58%" valign="middle">
+<td width="58%" align="center" valign="middle">
 
 I'm an **Information Technology student at Parul University** who enjoys working at the intersection of **code, design, and problem solving**.
 
@@ -86,14 +86,14 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 
 </div>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<td width="50%">🧠 <b>DSA</b><br>Arrays, hashing, binary search, sliding window, stacks, DP & patterns</td>
-<td width="50%">🌐 <b>Web</b><br>HTML, CSS, JavaScript & modern UI</td>
+<td width="50%" align="center">🧠 <b>DSA</b><br>Arrays, hashing, binary search, sliding window, stacks, DP & patterns</td>
+<td width="50%" align="center">🌐 <b>Web</b><br>HTML, CSS, JavaScript & modern UI</td>
 </tr>
 <tr>
-<td>📱 <b>Mobile</b><br>Android development with Java & Android Studio</td>
-<td>🎨 <b>Design</b><br>UI/UX, wireframes, prototypes & visual design</td>
+<td align="center">📱 <b>Mobile</b><br>Android development with Java & Android Studio</td>
+<td align="center">🎨 <b>Design</b><br>UI/UX, wireframes, prototypes & visual design</td>
 </tr>
 <tr>
 <td colspan="2" align="center">☁️ <b>Backend / Services</b><br>Firebase & application data workflows</td>
@@ -104,19 +104,19 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 
 ## 🚀 Things I've Built
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<th align="left">Project</th>
-<th align="left">What it is</th>
+<th align="center">Project</th>
+<th align="center">What it is</th>
 <th align="center">Stack</th>
 </tr>
-<tr><td>🎮 <b>CodeCraft</b></td><td>Interactive platform for learning programming concepts</td><td align="center"><code>HTML</code> <code>CSS</code> <code>JS</code></td></tr>
-<tr><td>📝 <b>Pustakam</b></td><td>Notes and learning platform</td><td align="center"><code>Web</code> <code>Firebase</code></td></tr>
-<tr><td>🖼️ <b>WallVerse</b></td><td>Android wallpaper application</td><td align="center"><code>Java</code> <code>Android</code></td></tr>
-<tr><td>🌐 <b>Portfolio</b></td><td>Personal developer portfolio</td><td align="center"><code>Web</code></td></tr>
-<tr><td>🎮 <b>Naruto Games</b></td><td>Anime-inspired game collection</td><td align="center"><code>Game Dev</code></td></tr>
-<tr><td>🌃 <b>SkyLine</b></td><td>Business website UI/UX concept</td><td align="center"><code>Figma</code></td></tr>
-<tr><td>💳 <b>G-Pay Redesign</b></td><td>Google Pay UI/UX concept</td><td align="center"><code>Figma</code></td></tr>
+<tr><td align="center">🎮 <b>CodeCraft</b></td><td align="center">Interactive platform for learning programming concepts</td><td align="center"><code>HTML</code> <code>CSS</code> <code>JS</code></td></tr>
+<tr><td align="center">📝 <b>Pustakam</b></td><td align="center">Notes and learning platform</td><td align="center"><code>Web</code> <code>Firebase</code></td></tr>
+<tr><td align="center">🖼️ <b>WallVerse</b></td><td align="center">Android wallpaper application</td><td align="center"><code>Java</code> <code>Android</code></td></tr>
+<tr><td align="center">🌐 <b>Portfolio</b></td><td align="center">Personal developer portfolio</td><td align="center"><code>Web</code></td></tr>
+<tr><td align="center">🎮 <b>Naruto Games</b></td><td align="center">Anime-inspired game collection</td><td align="center"><code>Game Dev</code></td></tr>
+<tr><td align="center">🌃 <b>SkyLine</b></td><td align="center">Business website UI/UX concept</td><td align="center"><code>Figma</code></td></tr>
+<tr><td align="center">💳 <b>G-Pay Redesign</b></td><td align="center">Google Pay UI/UX concept</td><td align="center"><code>Figma</code></td></tr>
 </table>
 
 <details>
@@ -219,14 +219,14 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 ## 🏅 Highlights
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<td width="50%">🥉 <b>3rd Place</b><br>Mobile App Competition, Parul University</td>
-<td width="50%">🤖 <b>GenAI Powered Data Analytics</b><br>Job Simulation — Forage</td>
+<td width="50%" align="center">🥉 <b>3rd Place</b><br>Mobile App Competition, Parul University</td>
+<td width="50%" align="center">🤖 <b>GenAI Powered Data Analytics</b><br>Job Simulation — Forage</td>
 </tr>
 <tr>
-<td>🔐 <b>Vadodara Police Hackathon</b><br>Participant</td>
-<td>📱 <b>Native Applications using Java</b><br>Certification</td>
+<td align="center">🔐 <b>Vadodara Police Hackathon</b><br>Participant</td>
+<td align="center">📱 <b>Native Applications using Java</b><br>Certification</td>
 </tr>
 <tr>
 <td colspan="2" align="center">📜 <b>CCC Certification</b> — NIELIT</td>
@@ -237,7 +237,7 @@ I'm keeping my algorithm practice in a dedicated repository, organized by patter
 
 ## 🌱 Currently Exploring
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td width="33.33%" align="center" valign="top">
 
