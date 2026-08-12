@@ -76,49 +76,50 @@ Currently, I'm sharpening my **DSA skills**, building projects, and getting bett
 <div align="center">
 
 ### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css&theme=dark" alt="Languages"/>
 
+<br><br>
+
 ### 🎨 Design & Creative
+
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai&theme=dark" alt="Design tools"/>
 
+<br><br>
+
 ### 🧰 Development & Tools
+
 <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase,git,github,vscode&theme=dark" alt="Development tools"/>
 
-<br>
+<br><br>
 
-<table width="100%">
+<table width="90%" align="center">
 <tr>
 <td width="33.33%" align="center" valign="top">
 
 ### 🧠 Problem Solving
 
-**DSA**
-
-Arrays · Hashing<br>
-Binary Search · Stacks<br>
-Sliding Window · DP
+`DSA` · `Arrays` · `Hashing`<br>
+`Binary Search` · `Stacks`<br>
+`Sliding Window` · `DP`
 
 </td>
 <td width="33.33%" align="center" valign="top">
 
 ### 🌐 Development
 
-**Web & Mobile**
-
-Java · JavaScript<br>
-HTML · CSS · Android<br>
-Firebase
+`Java` · `JavaScript`<br>
+`HTML` · `CSS` · `Android`<br>
+`Firebase`
 
 </td>
 <td width="33.33%" align="center" valign="top">
 
 ### 🎨 Design
 
-**UI / UX**
-
-Figma · Prototyping<br>
-Wireframes · Visual Design<br>
-User Flows
+`UI/UX` · `Figma`<br>
+`Prototyping` · `Wireframes`<br>
+`Visual Design` · `User Flows`
 
 </td>
 </tr>
@@ -163,9 +164,9 @@ User Flows
 
 <div align="center">
 
-<p><b>My algorithm practice is organized by reusable problem-solving patterns.</b></p>
+### A growing collection of patterns, not just accepted submissions.
 
-<table width="100%">
+<table width="90%" align="center">
 <tr>
 <td width="33.33%" align="center" valign="top">
 
@@ -202,7 +203,7 @@ User Flows
 
 <br><br>
 
-**Solve** → **Analyze** → **Optimize** → **Repeat**
+`Solve` → `Analyze` → `Optimize` → `Repeat`
 
 </div>
 
@@ -212,21 +213,15 @@ User Flows
 
 <div align="center">
 
-### 📈 Overview
+### 📈 Profile Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=Santoshsr07&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" width="70%" alt="GitHub statistics"/>
-
-<br><br>
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshsr07&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="55%" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santoshsr07&theme=github_dark" width="95%" alt="GitHub profile overview"/>
 
 <br><br>
 
-### 🔥 Contribution Streak
+### 💻 Languages by Repository
 
-<img src="https://streak-stats.demolab.com/?user=Santoshsr07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="65%" alt="GitHub streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santoshsr07&theme=github_dark" width="70%" alt="Languages by repository"/>
 
 </div>
 
