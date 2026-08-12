@@ -321,7 +321,7 @@ A collection of anime-inspired game projects and experiments built while explori
 
 ## 🌱 Currently Exploring
 
-<table width="100%" align="center">
+<table width="92%" align="center">
 <tr>
 <td width="33.33%" align="center" valign="top">
 
@@ -364,19 +364,27 @@ Prototyping · Visual Design
 
 </td>
 </tr>
+</table>
+
+<div align="center">
+
+<br>
+
+<table width="92%" align="center">
 <tr>
-<td colspan="3" align="center">
+<td align="center">
 
 ### 🔄 React.js · Revisiting
 
-Refreshing concepts, rebuilding muscle memory, and keeping React ready for the next project.
+Refreshing concepts and rebuilding muscle memory for the next project.
 
-<br><br>
 <code>REVISITING</code>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
